@@ -6,6 +6,7 @@
 * Free Software Foundation, either version 3 or (at your option) any      *
 * later version. This program is distributed without any warranty.  See   *
 * the file COPYING.gpl-v3 for details.                                    *
+test
 \*************************************************************************/
 
 /* Listing 59-3 */

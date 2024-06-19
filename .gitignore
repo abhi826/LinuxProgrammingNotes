@@ -1,0 +1,14 @@
+*
+
+# Do not ignore source files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+# Do not ignore markdown and text files (if needed)
+!*.md
+!*.txt
+
+# Do not ignore .gitignore itself
+!.gitignore
